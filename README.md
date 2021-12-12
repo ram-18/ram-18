@@ -21,3 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-18&" alt="ram-18" /></p>
 
+![snake gif](https://github.com/ram-18/ram-18/blob/output/github-contribution-grid-snake.gif)
+
