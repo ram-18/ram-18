@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-18&show_icons=true&locale=en" alt="ram-18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-18&" alt="ram-18" /></p>
+
+![snake gif](https://github.com/ram-18/ram-18/blob/output/github-contribution-grid-snake.gif)
